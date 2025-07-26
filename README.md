@@ -6,7 +6,7 @@ Welcome to **Byte Sting**, a multi-file reference guide designed for technicians
 
 ## **📚 Topics**
 
-* 💾 Storage & File Systems  
+* 💾 [Storage & File Systems](https://raw.github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Storage%20%26%20File%20System%20Facts.md)  
 * 🧠 RAM & Memory  
 * 🔌 Ports & Connectors  
 * 🔋 Power & Battery  

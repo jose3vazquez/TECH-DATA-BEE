@@ -10,7 +10,7 @@ Welcome to **Byte Sting**, a multi-file reference guide designed for technicians
 * 🧠 [RAM & Memory](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/RAM-Memory-Facts.md) 
 * 🔌 [Ports & Connectors](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Ports-Connectors.md)
 * 🔋 [Power & Battery](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Power-Battery.md) 
-* 🧩 [CPU, GPU & Motherboard](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Power-Battery.md)  
+* 🧩 [CPU, GPU & Motherboard](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/CPU-GPU-Motherboard.md)  
 * 💡 [General Hardware Concepts](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/General-Hardware-Concepts.md)  
 * 📦 [Mac & PC Interoperability](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Mac-PC-Interoperability.md)  
 * 🧰 [Practical Tools & Utilities](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Practical-Tools-Utilities.md) 

@@ -8,8 +8,8 @@ Welcome to **Byte Sting**, a multi-file reference guide designed for technicians
 
 * 💾 [Storage & File Systems](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Storage-File-System-Facts.md)  
 * 🧠 [RAM & Memory](https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/RAM-Memory-Facts.md) 
-* 🔌 Ports & Connectors  
-* 🔋 Power & Battery  
+* 🔌 [Ports & Connectors] https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Ports-Connectors.md
+* 🔋 [Power & Battery] https://github.com/jose3vazquez/Hardware-Knowledgebase/blob/main/Power-Battery.md 
 * 🧩 CPU, GPU & Motherboard  
 * 💡 General Hardware Concepts  
 * 📦 Mac & PC Interoperability  
